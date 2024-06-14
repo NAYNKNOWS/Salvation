@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color:whitesmoke;
+
+}
+
+.highlight {
+    text-decoration: underline;
+    font-weight: bold;
+    color: red;
+}
+
+.highlight2 {
+    text-decoration: none;
+    color: rgb(7, 211, 7);
+}
